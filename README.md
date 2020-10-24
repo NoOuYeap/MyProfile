@@ -5,3 +5,4 @@
 ![status](https://img.shields.io/badge/status-student%20-brightgreen.svg)
 
 ## MyProfile
+<img src = "KakaoTalk_20201024_184605644.jpg" width = 150 height = 150 ></img>
