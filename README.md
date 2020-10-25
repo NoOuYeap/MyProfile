@@ -22,4 +22,4 @@
 ### Java    
 - Java    
 - JavaScript       
-[[JavaLink]<img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/java.jpg" width = 90 height = 50></img>](https://www.oracle.com/java/technologies/)
+![JavaLink](https://www.oracle.com/java/technologies/)
