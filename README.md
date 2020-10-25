@@ -8,3 +8,5 @@
 <img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/KakaoTalk_20201024_184605644.jpg" width = 180 height = 180 ></img>      
 - 이름 : 노우엽
 - 병역여부 : 21년도에 갑니다
+- e-mail : wolf307@naver.com
+- github : [github.com/NoOuYeap](https://github.com/NoOuYeap)
