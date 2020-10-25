@@ -22,4 +22,4 @@
 ### Java    
 - Java    
 - JavaScript    
-- 주소 : [JavaLink](https://www.oracle.com/java/technologies/)
+- 주소 : [Oracle](https://www.oracle.com/java/technologies/)
