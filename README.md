@@ -20,7 +20,7 @@
 - 한림대학교 스마트IOT 재학(2학년 재학중)    
 
 ## 관심있는분야    
-### Java    
+### Java<img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/java.jpg" width = 24 height = 24></img>   
 - Java    
 - JavaScript    
 - 주소 : [Oracle](https://www.oracle.com/java/technologies/)
