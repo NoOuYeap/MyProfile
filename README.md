@@ -14,7 +14,7 @@
 - LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9A%B0%EC%97%BD-%EB%85%B8-5936241ba/)](https://www.linkedin.com/in/%EC%9A%B0%EC%97%BD-%EB%85%B8-5936241ba/)
 - test    
 ![깃허브](https://github.com/NoOuYeap/MyProfile/blob/main/image/contributions.PNG)
-> 깃허브에 미숙하지만 지금부터라도 깃허브에 대해 공부하고있습니다.
+> 아직 미숙한 점이 많지만 지금부터라도 코딩에 대해 공부를 하고있습니다.
 
 ## 학력    
 - 한림대학교 스마트IOT 재학(2학년 재학중)    
