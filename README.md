@@ -4,6 +4,7 @@
 ![last commit](https://img.shields.io/github/last-commit/NoOuYeap/MyProfile)
 ![status](https://img.shields.io/badge/status-student%20-brightgreen.svg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNoOuYeap%2FMyProfile%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## MyProfile
 <img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/KakaoTalk_20201024_184605644.jpg" width = 180 height = 180 ></img>      
 - 이름 : 노우엽
@@ -13,3 +14,6 @@
 - LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9A%B0%EC%97%BD-%EB%85%B8-5936241ba/)](https://www.linkedin.com/in/%EC%9A%B0%EC%97%BD-%EB%85%B8-5936241ba/)
 - test    
 ![깃허브](https://github.com/NoOuYeap/MyProfile/blob/main/image/contributions.PNG)
+
+## 학력    
+- 한림대학교 스마트IOT 재학(2학년 재학중)    
