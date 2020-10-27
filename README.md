@@ -36,4 +36,4 @@
 현재 노력하고 있는 제 자신이 궁금하다면
 [github](https://github.com/NoOuYeap)이쪽으로 와주세요
 
-c
+
