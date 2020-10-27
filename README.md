@@ -25,4 +25,11 @@
  현재 자바와 자바스크립트에 대한 관심이 있으며 아직 미숙하지만 자주 자바에 대해 많은 관심을 가지고 있습니다.    
 - 주소 : [Oracle](https://www.oracle.com/java/technologies/)    
 
-## C
+<img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/c.jpg" widthe = 62 height = 42></img>    
+`C , C++`    
+완전 생초보입니다. 아직은 여러 코딩에 대해 얕게 알아가고있습니다.    
+
+## Android    
+`rxJava , Kotlin`    
+`자바, C`의 코딩에 대해 어느정도 익힌후 안드로이드 기술을 제것으로 만들고 싶은 마음이 큽니다. 현재 노력하고 있는 제 자신이 궁금하다면[git](https://github.com/NoOuYeap)이쪽으로 와주세요
+
