@@ -20,9 +20,9 @@
 - 한림대학교 스마트IOT 재학(2학년 재학중)    
 
 # 발전시키고 있는 기술        
-## Java<img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/java.jpg" width = 42 height = 32></img>   
+## Java<img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/java.jpg" width = 62 height = 32></img>   
  `Java ,JavaScript `    
  현재 자바와 자바스크립트에 대한 관심이 있으며 아직 미숙하지만 자주 자바에 대해 많은 관심을 가지고 있습니다.    
 - 주소 : [Oracle](https://www.oracle.com/java/technologies/)    
 
-## Git
+## C
