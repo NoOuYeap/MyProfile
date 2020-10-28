@@ -33,7 +33,7 @@
 ## Android<img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/Android.jpg" width = 62 height = 42></img>     
 `자바, C`의 코딩에 대해 어느정도 익힌후 안드로이드 기술을 제것으로 만들고 싶은 마음이 큽니다.       
 - 주소 : [Android](https://developer.android.com/)
-## Python    
+## Python<img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/Python.jpg" width = 62 height = 42></img>    
 현재 3.7.3 버전 파이썬으로 간단한 게임들을 만들고 있습니다. 궁금하시다면 [github](https://github.com/NoOuYeap) 이쪽으로 와주세요
 - 주소 : [Python](https://www.python.org/)
 ## 더보기
