@@ -37,6 +37,7 @@
 ## Python    
 현재 3.7.3 버전 파이썬으로 간단한 게임들을 만들고 있습니다. 궁금하시다면 [github](https://github.com/NoOuYeap) 이쪽으로 와주세요
 
-
+## 더보기
+코딩을 알려주고 싶으신 분이거나 제 코딩에 새로운 요청이 필요하신분 [github](https://github.com/NoOuYeap) 나 [이메일](wolf307@naver.com)으로 연락주세요
 
 
