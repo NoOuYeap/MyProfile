@@ -28,19 +28,19 @@
 
 <img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/c.jpg" width = 62 height = 42></img>    
 `C , C++`    
-완전 생초보입니다. 아직은 여러 코딩에 대해 얕게 알아가고있습니다.    
+완전 **생초보**입니다. 아직은 여러 코딩에 대해 얕게 알아가고있습니다.    
 - 주소 : [Visual Studio](https://visualstudio.microsoft.com/ko/)
 
 ## Android<img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/Android.jpg" width = 62 height = 42></img>        
-코딩에 대해 어느정도 익힌후 안드로이드 기술을 제것으로 만들고 싶은 마음이 큽니다.       
+코딩에 대해 어느정도 익힌후 안드로이드 기술을 제것으로 만들고 싶은 **마음**이 큽니다.       
 - 주소 : [Android](https://developer.android.com/)
 
 ## Python<img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/Python.jpg" width = 62 height = 42></img>    
-현재 **3.7.3** 버전 파이썬으로 간단한 게임들을 만들고 있습니다. 궁금하시다면 [github](https://github.com/NoOuYeap/Python) 이쪽으로 와주세요
+현재 **3.7.3 버전** 파이썬으로 간단한 게임들을 만들고 있습니다. 궁금하시다면 [github](https://github.com/NoOuYeap/Python) 이쪽으로 와주세요
 - 주소 : [Python](https://www.python.org/)    
 
 ## 만들고 있는 프로젝트     
-**Python**을 이용한 거북이 낚시를 하나 만들었습니다.    
+**Python을** 이용한 거북이 낚시를 하나 만들었습니다.    
 <img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/tutle%20fishing.PNG" width = 200 height = 200></img>        
 궁금하시다면 [github](https://github.com/NoOuYeap/Python)
 
