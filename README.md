@@ -42,7 +42,7 @@
 ## 만들고 있는 프로젝트     
 **Python을** 이용한 거북이 낚시를 하나 만들었습니다.    
 <img src = "https://github.com/NoOuYeap/MyProfile/blob/main/image/tutle%20fishing.PNG" width = 200 height = 200></img>        
-궁금하시다면 [github](https://github.com/NoOuYeap/Python)
+궁금하시다면 [Python](https://github.com/NoOuYeap/Python)
 
 ## 더보기
 코딩을 알려주고 싶으신 분이거나 제 코딩에 새로운 요청이 필요하신분 [github](https://github.com/NoOuYeap) 나 wolf307@naver.com으로 연락주세요
